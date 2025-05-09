@@ -1,0 +1,27 @@
+{
+  "prompt": "medium straight cyan hair, natural hairstyle, photo-realistic, professional photography, detailed hair strands, natural lighting",
+  "style_features": {
+    "length": "medium",
+    "color": "cyan",
+    "texture": "straight",
+    "style": "natural"
+  },
+  "canvas_path": "hairstyle_prep/prepared_input.png",
+  "hair_mask_path": "hairstyle_prep/prepared_hair_mask.png",
+  "face_mask_path": "hairstyle_prep/prepared_face_mask.png",
+  "reference_grid_path": "hairstyle_prep/prepared_reference_grid.png",
+  "size_info": {
+    "original_size": [
+      512,
+      512
+    ],
+    "new_size": [
+      512,
+      512
+    ],
+    "paste_x": 0,
+    "paste_y": 0,
+    "target_size": 512
+  },
+  "num_reference_images": 3
+}
