@@ -23,7 +23,8 @@ datasets==2.19.0
 diffusers==0.31.0
 dill==0.3.8
 distro==1.9.0
-dlib==19.24.4
+# dlib==19.24.4
+dlib
 einops==0.4.1
 exceptiongroup==1.2.1
 executing==2.0.1
@@ -128,8 +129,9 @@ tifffile==2024.4.24
 tokenizers==0.20.1
 tomlkit==0.12.0
 toolz==0.12.1
-torch==2.2.2+cu118
-torchvision==0.16.2+cu118
+# torch==2.2.2+cu118
+# torchvision==0.16.2+cu118
+# pip install torch==2.2.2+cu118 torchvision==0.17.2+cu118 torchaudio==2.2.2+cu118 --index-url https://download.pytorch.org/whl/cu118
 tqdm==4.66.2
 transformers==4.45.2
 triton==2.2.0
@@ -141,7 +143,8 @@ uvicorn==0.29.0
 websocket-client==1.8.0
 websockets==11.0.3
 Werkzeug==3.0.3
-xformers==0.0.25.post1+cu118
+# xformers==0.0.25.post1+cu118
+xformers==0.0.25.post1
 xxhash==3.4.1
 yarl==1.9.4
 zipp==3.18.1
